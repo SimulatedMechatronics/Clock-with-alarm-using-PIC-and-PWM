@@ -1,0 +1,22 @@
+[PROJECT]
+Target=projeto1.hex
+Processor_Text=PIC16F877
+CCSVerions=5.015
+Compiler=PCM
+CCSVersion=5.015
+[Target Data]
+FileList=projeto1.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[C:\Users\Windows\Desktop\Projeto1\software\projeto1]
+Type=4
+[mru-list]
+1=projeto1.c
+[Opened Files]
+1=projeto1.c
+2=
+[projeto1.c]
+Type=4
+[Units]
+Count=1
+1=projeto1 (main)
